@@ -41,6 +41,7 @@ Get started by watching the interview with [Linus Torwalds, The Mind Behind Linu
 ## Contributing to OpenSource
 - [FreeCodeCamp's curated list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) for beginners to contribute to OpenSource.
 - Learn by making your first Pull Request at [GitMe](https://gitme.js.org)
+- Find open issues you can work on at [issuehub](https://issuehub.io)
 - Submit 5 Pull Requests between October 1st and 31st to earn a free TShirt from [HacktoberFest](https://hacktoberfest.digitalocean.com)
 
 ## Extras for Linux fans
