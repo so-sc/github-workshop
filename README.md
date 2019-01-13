@@ -1,6 +1,6 @@
 # Git + GitHub Workshop Resources
 Hello there :wave:  
-Hope You all have enjoyed the workshop and ready to contribute to open source. These resources will help you get up and going with Git and GitHub.  
+Hope You all have enjoyed the workshop and ready to contribute to open source. These resources will help you get up and going with Git and GitHub. Before we get started read our community blog on [How Open Source can help shape your IT career](https://sosc.org.in/blog/how-open-source-can-shape-your-it-career)
 
 ## Installation
 If you are a Windows user. Please download the following application to use the terminal in windows.
