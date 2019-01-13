@@ -22,14 +22,14 @@ $ git config --global user.name "Your github username here"
 $ git config --global user.email "Your email here"
 ```
 
-### Install a Favorite editor of your choice
+### Install a Favorite editor of your choice :computer:
 You can install any of your favorite editor to start working on projects. I strongly recommend using VSCode, since it got a lot of Git integrations and plugins to help.
 
 - [VSCode](https://code.visualstudio.com/)
 - [Atom](https://atom.io)
 - [Sublime Text](https://sublimetext.com)
 
-## Resources
+## Resources :books:
 Get started by watching the interview with [Linus Torwalds, The Mind Behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=en).
 
 - [Learn about Linux commands on CLI](https://www.youtube.com/watch?v=cBokz0LTizk) 
@@ -40,16 +40,16 @@ Get started by watching the interview with [Linus Torwalds, The Mind Behind Linu
 - If you stuck on something, or want some handy git commands to get out of mess. Refer [Katie's Oh-Shit-Git!](https://ohshitgit.com/)
 - [Markdown Language Tutorial](https://www.youtube.com/watch?v=6A5EpqqDOdk)
 
-## Contributing to OpenSource
-- [FreeCodeCamp's curated list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) for beginners to contribute to OpenSource.
+## Contributing to OpenSource :beginner:
+- [FreeCodeCamp's curated list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) of resources to help new open sourcerers.
 - Learn by making your first Pull Request at [GitMe](https://gitme.js.org)
 - Find open issues you can work on at [issuehub](https://issuehub.io)
 - Submit 5 Pull Requests between October 1st and 31st to earn a free TShirt from [HacktoberFest](https://hacktoberfest.digitalocean.com)
 
-## Extras for Linux fans
+## Extras for Linux fans :robot:
 - Customize your terminal with [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - Use [Bat](https://github.com/sharkdp/bat), Cat with wings
 - [Vim Tutorials](https://www.youtube.com/watch?v=zIzdp3EciiY&vl=en) on how to get out of it
 ### Facing any issues?
 Feel free to open an issue or contact the mentors :heart:
-[@haxzie](https://github.com/haxzie)
+[@SOSC](https://sosc.org.in)
