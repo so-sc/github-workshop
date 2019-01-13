@@ -1,3 +1,5 @@
+![](https://github.com/haxzie/sosc-website/raw/master/src/contents/events/git-github-2018/git_cover.jpg)  
+
 # Git + GitHub Workshop Resources
 Hello there :wave:  
 Hope You all have enjoyed the workshop and ready to contribute to open source. These resources will help you get up and going with Git and GitHub. Before we get started read our community blog on [How Open Source can help shape your IT career](https://sosc.org.in/blog/how-open-source-can-shape-your-it-career)
