@@ -49,3 +49,4 @@ Get started by watching the interview with [Linus Torwalds, The Mind Behind Linu
 - [Vim Tutorials](https://www.youtube.com/watch?v=zIzdp3EciiY&vl=en) on how to get out of it
 ### Facing any issues?
 Feel free to open an issue or contact the mentors :heart:
+[@haxzie](https://github.com/haxzie)
