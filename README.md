@@ -36,9 +36,16 @@ Get started by watching the interview with [Linus Torwalds, The Mind Behind Linu
 - [Udacity's Git and GitHub tutorial](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
 - [Daniel Shiffman's Git and GitHub tutorial](https://www.youtube.com/watch?v=BCQHnlnPusY), This is simply :heart:
 - [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [Git Additional Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 - [GitHub Training courses](https://lab.github.com)  from GitHub lab
+- [GitHub Guides](https://guides.github.com/):The easiest way to get started with GitHub
 - If you stuck on something, or want some handy git commands to get out of mess. Refer [Katie's Oh-Shit-Git!](https://ohshitgit.com/)
 - [Markdown Language Tutorial](https://www.youtube.com/watch?v=6A5EpqqDOdk)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Learn Git With Git-Tower](https://www.git-tower.com/learn/): Covers some cool tutorials in both pdf and videos in addition to the different cheat sheets in different languages.
+- Learn by doing:
+  - [Learn Git branching](https://learngitbranching.js.org/)
+  - [Visualizing Git](http://git-school.github.io/visualizing-git/): Enjoy an practice Git while visualising all what happens.
 
 ## Contributing to OpenSource :beginner:
 - [FreeCodeCamp's curated list](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) of resources to help new open sourcerers.
